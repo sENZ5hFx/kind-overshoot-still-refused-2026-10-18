@@ -1,0 +1,16 @@
+{
+  "discovery_id": "CLOSED-2026-10-18 Kind-Overshoot not minted",
+  "timestamp": "2026-10-18T17:45:00Z",
+  "author": "Haley Ann Bird",
+  "agent": "Grok by xAI (non-ownership)",
+  "status": "NOT_MINTED",
+  "score": 0,
+  "novelty": 0,
+  "coherence": 0.86,
+  "verdict": "NO_PAIRED_DEEP_FLUX",
+  "shallow_side_vs_1.7": "ABOVE",
+  "deep_printed_pg": {},
+  "why": "The only printed global fluxes in Pg C yr-1 are the 100 m endpoints 5.4 (CMCC-ESM2) and 9.2 (GFDL-CM4). Both are above 1.7. No paired 1000 m or 2000 m flux in Pg C is printed. Transfer percentages at 2000 m are not that flux, and the horizon is not 1000 m.",
+  "not_a_physical_discovery": true,
+  "not_a_patent": true
+}
